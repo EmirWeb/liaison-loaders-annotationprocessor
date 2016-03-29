@@ -24,7 +24,7 @@ ext {
 
     libraryDescription = 'Annotation processor for Liaison\'s Laoders.'
 
-    siteUrl = 'http://loadersannotationprocessor.liaison.mobi'
+    siteUrl = 'http://liaison.mobi'
     gitUrl = 'https://github.com/EmirWeb/liaison-loaders.git'
 
     libraryVersion = '0.1.0'
