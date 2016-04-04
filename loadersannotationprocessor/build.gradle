@@ -18,7 +18,7 @@ ext {
     bintrayOrg = 'liaison'
     versionName = '0.1.0'
 
-    publishedGroupId = 'com.liaison'
+    publishedGroupId = 'mobi.liaison'
     libraryName = 'loadersannotationprocessor'
     artifact = 'loadersannotationprocessor'
 
